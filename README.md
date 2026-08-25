@@ -10,12 +10,6 @@ py -m pip install -r requirements.txt
 py main.py
 ```
 
-无界面自检：
-
-```powershell
-py main.py --self-test --seconds 10
-```
-
 ## 分层结构
 
 ```text
